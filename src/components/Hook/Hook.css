@@ -1,0 +1,20 @@
+.ul-st {
+    display: block;
+    margin-top: 10px;
+  }
+
+.display-box {
+    border: 1px solid grey;
+    width: auto;
+    padding-top: 5px;
+    margin-bottom: 10px;
+    box-shadow: 2px 2px grey;
+    background: linear-gradient(to right, rgba(7, 242, 215, 0.608), rgba(11, 108, 234, 0.608));
+}
+
+.clear {
+    border: 1px solid;
+    box-shadow: 2px 2px grey;
+    background-color: red;
+    width: auto;
+}

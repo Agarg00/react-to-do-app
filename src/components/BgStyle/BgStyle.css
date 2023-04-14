@@ -1,0 +1,13 @@
+.main {
+    display: flex;
+}
+
+.style{
+    border: 1px Solid grey;
+    background: linear-gradient(to left, rgba(7, 242, 215, 0.608), rgba(11, 108, 234, 0.608));
+    width: auto;
+    border-radius: 2px;
+    margin-right: 10px;
+    text-align: center;
+    box-shadow: 2px 2px 2px 2px grey;
+}
