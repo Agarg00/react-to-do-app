@@ -1,4 +1,4 @@
-#Demo
+# Demo
 
 Demo is available at https://animated-to-do-app.netlify.app/
 # Getting Started with Create React App
